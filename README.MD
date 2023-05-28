@@ -1,5 +1,5 @@
 ### Знакомство с языком Python ###
-![Logo Python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
+![logo](https://assets.stickpng.com/images/62a4be72fdee15d2905007bc.png "python")
 - Урок 1. Ввод-Вывод, операторы ветвления  
 - Урок 2. Циклы (for, while)  
 - Урок 3. Списки и словари  

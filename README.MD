@@ -1,5 +1,4 @@
 ### Знакомство с языком Python ###
-![logo](https://assets.stickpng.com/images/62a4be72fdee15d2905007bc.png "python")
 - Урок 1. Ввод-Вывод, операторы ветвления  
 - Урок 2. Циклы (for, while)  
 - Урок 3. Списки и словари  
